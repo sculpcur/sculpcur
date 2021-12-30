@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mon site web</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+
+					<!-- Logo -->
+						<h1><a href="index.html">Bienvenue sur notre site</a></h1>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Accueil</a></li>
+								<li>
+									<a href="#">Cours</a>
+									<ul>
+										<li><a href="1.html">html/css</a></li>
+										<li><a href="2.html">binair et hex </a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="left-sidebar.html">Exposés</a>
+									<ul>
+										<li><a href="3.html">Mon exposé</a></li>
+										<li><a href="4.html">Un autre expo</a></li>
+									</ul>
+								</li>
+
+								<li>
+									<a href="right-sidebar.html">Frameworks js</a>
+									<ul>
+										<li><a href="5.html">kineticJs</a></li>
+										<li><a href="6.html">phaser</a></li>
+										<li><a href="7.html">ProcessingJs</a></li>
+										<li><a href="8.html">MathJax</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="no-sidebar.html">Mon projet</a>
+									<ul>
+										<li><a href="9.html">Cahier de charges</a></li>
+										<li><a href="10.html">Répartition des taches </a></li>
+										<li><a href="11.html">Présentation</a></li>
+										<li><a href="12.html">Production</a></li>
+									</ul>
+								</li>
+								<li><a href="no-sidebar.html">Page perso</a></li>
+							</ul>
+						</nav>
+
+					<!-- Banner -->
+						<section id="banner">
+							<header>
+								<h2>Que pensez vous de notre site?</h2>
+								<p>Vivez une experience absolue</p>
+							</header>
+						</section>
+							<h5> LES MEMBRES DU GROUPE</h5>
+							<table border="1" width="100%" align="center">
+    	<tr>
+    		<tH>NUMERO</tH>
+    		<tH>MATRICULES</tH>
+    		<tH>NOMS ET PRENOMS</tH>
+    	</tr>
+    	<tr>
+    		<td align="center">01</td>
+    		<td align="center">21S56638</td>
+    		<td align="center">ADAMOU HAMADOU</td>
+    	</tr>
+    	<tr>
+    		<td align="center">02</td>
+    		<td align="center">21S56649</td>
+    		<td align="center">AMOUGOU NDIZIE MICHEL GéCYAL</td>
+    	</tr>
+    	<tr>
+    		<td align="center">03</td>
+    		<td align="center">21S56654</td>
+    		<td align="center">ATCHOUMTCHOUA TIEDAM AMSTRONG STEVE</td>
+    	</tr>
+    	<tr>
+    		<td align="center">04</td>
+    		<td align="center">21S2089479</td>
+    		<td align="center">BELECK BETSEM RANDOL</td>
+    	</tr>
+    	<tr>
+
+    		<td align="center">05</td>
+    		<td align="center">21S56708</td>
+    		<td align="center">DANG ATSAMA MARIE BRELE</td>
+    	</tr>
+    	<tr>
+    		<td align="center">06</td>
+    		<td align="center">21S56743</td>
+    		<td align="center">DJOMO DJOMO JASON YOANN</td>
+    	</tr>
+    	  	<tr>
+    		<td align="center">07</td>
+    		<td align="center">21S56775</td>
+    		<td align="center">EMERYKE YANKAM TATANG</td>
+    	</tr>
+    	 	  	<tr>
+    		<td align="center">08</td>
+    		<td align="center">21S56800</td>
+    		<td align="center">FOKA MAGHEN YANN BRONDON</td>
+    	</tr>
+    	 	  	<tr>
+    		<td align="center">09</td>
+    		<td align="center">210290061</td>
+    		<td align="center">GATHEU TCHEUNTEU LOLITA TASNIA</td>
+    	</tr>
+    		 	  	<tr>
+    		<td align="center">10</td>
+    		<td align="center">21S56812</td>
+    		<td align="center">FOPA TANETSI BRONDI BOLAN</td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">11</td>
+    		<td align="center">21S56845</td>
+    		<td align="center">HEUMEN MIRIELLE MERVEILLES</td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">12</td>
+    		<td align="center">210290061</td>
+    		<td align="center">KENGNE TCHUIKAM ANDELSON ZIDANE</td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">13</td>
+    		<td align="center">21S56948 </td>
+    		<td align="center">MAKOBU NATEU DIANE</td>
+    	</tr>
+    				 	  	<tr>
+    		<td align="center">14</td>
+    		<td align="center">21S56971</td>
+    		<td align="center">MBA DEFFO YANN KEVIN </td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">15</td>
+    		<td align="center">21S57014</td>
+    		<td align="center">MOGUEO MBEMO HORNELLA</td>
+    	</tr>
+    				 	  	<tr>
+    		<td align="center">16</td>
+    		<td align="center">210277300 </td>
+    		<td align="center">NAMDOU LAMINOU</td>
+    	</tr>
+    				 	  	<tr>
+    		<td align="center">17</td>
+    		<td align="center">21S57044</td>
+    		<td align="center">NDAMBWE JUNIOR LIONNEL</td>
+    	</tr>
+    				 	  	<tr>
+    		<td align="center">18</td>
+    		<td align="center">21S57351</td>
+    		<td align="center">TIENTCHEU HAPPI RYANE MAELYS</td>
+    	</tr>
+    				 	  	<tr>
+    		<td align="center">19</td>
+    		<td align="center">21S57107</td>
+    		<td align="center">NJIKE TCHANA STEVE LOIC</td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">20</td>
+    		<td align="center">210278111</td>
+    		<td align="center">ONDOUA ONDOUA DANIELLE CORALIE</td>
+    	</tr>
+    			 	  	<tr>
+    		<td align="center">21</td>
+    		<td align="center">21S57259</td>
+    		<td align="center">PONGME PATRICK WILIAM</td>
+    	</tr>
+        		 	  	<tr>
+    		<td align="center">22</td>
+    		<td align="center">21S57345</td>
+    		<td align="center">TETANG GUY ECLADOR
+</td>
+    	</tr>
+		<tr>
+    		<td align="center">23</td>
+    		<td align="center">21S57349</td>
+    		<td align="center">TIAKO WELADJI CHRISTIAN CARLIN
+</td>
+</TR>
+<tr>
+    		<td align="center">24</td>
+    		<td align="center">20S43150</td>
+    		<td align="center">TSOBENG DONFACK ANDERLSON
+</td>
+</TR>
+    </table>
+							
+					
+								
+								
+
+			
+				<section id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-8 col-12-medium">
+								
+									<ul class="social">
+										<li><a class="icon brands fa-facebook-f" href="#"><span class="label">Facebook</span></a></li>
+										<li><a class="icon brands fa-twitter" href="#"><span class="label">Twitter</span></a></li>
+										<li><a class="icon brands fa-dribbble" href="#"><span class="label">Dribbble</span></a></li>
+										<li><a class="icon brands fa-tumblr" href="#"><span class="label">Tumblr</span></a></li>
+										<li><a class="icon brands fa-linkedin-in" href="#"><span class="label">LinkedIn</span></a></li>
+									</ul>
+									
+								</section>
+							</div>
+							<div class="col-12">
+
+								<!-- Copyright -->
+									<div id="copyright">
+										<ul class="links">
+											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										</ul>
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
